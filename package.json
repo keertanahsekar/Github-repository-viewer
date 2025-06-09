@@ -1,0 +1,16 @@
+{
+  "name": "repository",
+  "version": "1.0.0",
+  "main": "github.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2"
+  },
+  "description": ""
+}
